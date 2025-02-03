@@ -11,6 +11,7 @@ We will use open source LLMs, within considerations are:
 2. IBM Granite
 - https://www.ibm.com/granite/docs/
 - https://huggingface.co/ibm-granite
+3. TBA..
 
 ## Constraints
 The system in its current phase of development will not include authorization 
