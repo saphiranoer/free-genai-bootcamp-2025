@@ -7,8 +7,10 @@
 ## Assumption
 We will use open source LLMs, within considerations are: 
 1. Deepseek
+https://github.com/deepseek-ai/DeepSeek-LLM
 2. IBM Granite
-3. 
+https://www.ibm.com/granite/docs/
+https://huggingface.co/ibm-granite
 
 ## Constraints
 The system in its current phase of development will not include authorization 
