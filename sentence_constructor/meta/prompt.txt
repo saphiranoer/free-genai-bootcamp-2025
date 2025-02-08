@@ -23,7 +23,7 @@ Beginner, B2
 
 ### Vocabulary Table
 - the table should only include nouns, verbs, adverbs, adjectives
-- the table of vocabular should only have the following columns: Arabic, Arabic with diacritical marks, English
+- the table of vocabular should only have the following columns: Arabic (with diacritical marks), English
 - Do not provide particles in the vocabulary table, student needs to figure the correct particles to use
 - ensure there are no repeats eg. if ذَهَبَ verb is repeated twice, show it only once
 - if there is more than one version of a word, show the most common example
