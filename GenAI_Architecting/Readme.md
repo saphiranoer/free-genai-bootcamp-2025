@@ -13,7 +13,7 @@ We assume that running the system locally requires high RAM and computation powe
 - The system in its current phase of development will not include authorization 
 
 ## Model Selection
-The model used should contain large enough amount of parameters to ensure accuracy, but still within the capacity of our local system or the within the contraints of the free tier cloud service that we can access. We will try several LLMs, which are: 
+The model used should contain large enough amount of parameters to ensure accuracy, but still within the capacity of our local system or the within the contraints of the free tier cloud service that we can access. We will try several LLMs, which include: 
 1. Deepseek
 - https://github.com/deepseek-ai/DeepSeek-LLM
 2. IBM Granite
