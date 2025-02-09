@@ -1,4 +1,6 @@
 # ChatGPT
+I have a paid account, i tried almost all models but the examples bellow are the responses of gpt 4o
+
 ## First prompt
 ![milk](1.png)
 
