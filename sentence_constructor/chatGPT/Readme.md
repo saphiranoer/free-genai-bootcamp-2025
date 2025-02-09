@@ -1,4 +1,4 @@
-# ChatGPT (GPT 4o)
+# ChatGPT
 ## First prompt
 ![milk](1.png)
 
