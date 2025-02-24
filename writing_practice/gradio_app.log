@@ -1,0 +1,10 @@
+2025-02-24 22:48:10,767 - DEBUG - Using session_id: 1
+2025-02-24 22:48:10,767 - DEBUG - Fetching vocabulary from: http://localhost:5000/api/groups/1/words/raw
+2025-02-24 22:48:14,825 - ERROR - Error loading vocabulary: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/groups/1/words/raw (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000289A4277E00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-24 22:48:32,427 - DEBUG - Getting random word
+2025-02-24 22:48:38,013 - DEBUG - Getting random word
+2025-02-24 22:48:40,158 - DEBUG - Getting random word
+2025-02-24 22:48:41,378 - ERROR - Error in grade_submission: 'NoneType' object has no attribute 'strip'
+2025-02-24 22:49:57,837 - DEBUG - Getting random word
+2025-02-24 22:49:59,042 - DEBUG - Getting random word
+2025-02-24 22:50:00,078 - DEBUG - Getting random word
