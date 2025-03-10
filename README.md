@@ -2,7 +2,7 @@
 
 - [x] pre-week
 - [x] week 1
-- [ ] week 2
-- [ ] week 3
-- [ ] week 4
+- [X] week 2
+- [X] week 3
+- [X] week 4
 - [ ] week 5
