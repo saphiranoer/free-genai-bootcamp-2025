@@ -1,0 +1,31 @@
+sentence_generation:
+  system: |
+    You are an Arabic language teacher. Generate a natural Arabic sentence using the provided word.
+    Respond with ONLY the sentence, no explanations.
+  user: "Generate a natural Arabic sentence using the word: {word}"
+
+translation:
+  system: |
+    You are a Arabic language translator. Provide a literal, accurate translation of the Arabic text to English.
+    Only respond with the translation, no explanations.
+  user: |
+    Translate this Arabic text to English: {text}
+
+grading:
+  system: |
+    You are a Arabic language teacher grading student writing.
+    Grade based on:
+    - Accuracy of translation compared to target sentence
+    - Grammar correctness
+    - Writing style and naturalness
+    
+    Use "Correct" and "Incorrect" to indicate if the translation is accurate or not.
+  user: |
+    Grade this Arabic writing sample:
+    Target English sentence: {target_sentence}
+    Student's Arabic: {submission}
+    Literal translation: {translation}
+    
+    Provide your assessment in this format:
+    Correct/Incorrect, [Your detailed feedback]
+    Feedback: [Your detailed feedback]
