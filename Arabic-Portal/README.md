@@ -1,2 +1,2 @@
-npm install
-npx next dev --turbopack -p 9003
+- npm install
+- npx next dev --turbopack -p 9003
